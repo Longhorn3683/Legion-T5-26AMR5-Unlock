@@ -1,32 +1,31 @@
-# 联想刃7000k解锁BIOS隐藏选项
+# [跳转中文版](./README_zh.md)
 
-经B站网友反馈，此方法同样适用于2022款刃7000k
+# Legion T5 26AMR5 (REN7000P 2021) Unlock BIOS Hidden Menu
 
-本人B站视频链接：[联想刃7000k解锁BIOS](https://www.bilibili.com/video/BV1zF411u78C)
+- Forked from https://github.com/CalvinXu17/Lenovo-7000k-Unlock-BIOS and translated some content
 
-<img src="./doc/1.png" style="zoom: 60%;" />
+## Supported model
+- Legion T5 26AMR5 / REN7000P 2021 (刃7000P 2021)
 
-<img src="./doc/2.png" style="zoom:80%;" />
+## What can be unlocked
+Generally, there are very few options in OEM's BIOS. After unlocking hidden menu, many parameters can be adjusted, such as overclocking (Manual Overclocking, PBO, etc.).
 
-### 使用方式
+## How to use
+- Download asset in [Releases](https://github.com/Longhorn3683/Legion-T5-26AMR5-Unlock/releases) then run as administrator.
 
-* 以管理员权限运行**unlock.exe**即可
+<img src="./img/1.jpg" style="zoom: 60%;" />
 
-### 注意
+## Warning
+* This software only modifies NVRAM variables and does not alter any other BIOS data, ensuring safety and stability
+* Any adverse consequences caused by modifications made in the BIOS after unlocking advanced features have nothing to do with this software! **Proceed with caution!**
+* BIOS update will lock hidden menu. You need to run the program again
 
-* 本软件仅修改NVRAM变量不修改任何其他BIOS数据，安全稳定
-* 解锁高级功能后在BIOS内所作的修改造成不良后果与此软件无关！**请谨慎操作！**
-* BIOS更新会导致解锁失效，需再次运行unlock.exe解锁
-
-### 免责声明
+## Disclaimers
 
 - **RUN ON YOUR OWN RISK !!!**
 
-- **该程序仅供学习交流，严禁使用于任何商业用途，若产生利益纠纷，概不负责。**
+- **This program is intended for learning and exchange purposes. Any commercial purposes is strictly prohibited. We shall not be held liable for any disputes arising from its use.**
 
-- **请尊重作者的劳动成果，如需转载，请注明出处，谢谢！**
+- **Respect the author's labor achievements. Please indicate the source when reposting. Thank you!**
 
-- **不可将此脚本二次创作后用于商业目的！**
-
-  
-
+- **This script cannot be recreated and used for commercial purposes!**
