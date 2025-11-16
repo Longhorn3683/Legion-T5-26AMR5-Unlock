@@ -1,11 +1,13 @@
 # [跳转中文版](./README_zh.md)
 
-# Legion T5 26AMR5 (REN7000P 2021) Unlock BIOS Hidden Menu
+# Legion T5 26AMR5 Unlock BIOS Hidden Menu
 
 - Forked from https://github.com/CalvinXu17/Lenovo-7000k-Unlock-BIOS and translated some content
 
+- [Legion B550 Motherboard Tutorial (Chinese)](https://longhorn3683.github.io/2025/11/11/%E8%81%94%E6%83%B3%E6%8B%AF%E6%95%91%E8%80%85B550%E4%B8%BB%E6%9D%BF%E8%B0%83%E6%95%99%E6%8C%87%E5%8D%97/)
+
 ## Supported model
-- Legion T5 26AMR5 / REN7000P 2021 (刃7000P 2021)
+- Legion T5 26AMR5 / REN7000P 26AMR (刃7000P 2020/2021)
 
 ## What can be unlocked
 Generally, there are very few options in OEM's BIOS. After unlocking hidden menu, many parameters can be adjusted, such as overclocking (Manual Overclocking, PBO, etc.).
