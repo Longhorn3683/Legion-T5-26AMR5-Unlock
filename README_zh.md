@@ -1,11 +1,12 @@
-# 拯救者刃7000P 26AMR（2020/2021）解锁BIOS隐藏菜单
+# 拯救者刃7000P 2020/2021解锁BIOS隐藏菜单
 
 - 基于 https://github.com/CalvinXu17/Lenovo-7000k-Unlock-BIOS 修改并做了一些翻译（虽然很草）
 
 - [联想拯救者B550主板调教指南](https://longhorn3683.github.io/2025/11/11/%E8%81%94%E6%83%B3%E6%8B%AF%E6%95%91%E8%80%85B550%E4%B8%BB%E6%9D%BF%E8%B0%83%E6%95%99%E6%8C%87%E5%8D%97/)
 
 ## 支持机型
-- 拯救者刃7000P 26AMR（2020/2021）（芯片组AMD B550，海外版为Legion T5 26AMR5）
+- 拯救者刃7000P 2020/2021（REN7000P-26AMR）
+- Legion T5-26AMR5（海外版）
 
 ## 特性
 解锁BIOS隐藏菜单，如

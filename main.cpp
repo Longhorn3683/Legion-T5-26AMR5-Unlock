@@ -100,8 +100,8 @@ int main()
 		return 0;
 	}
 
-	cout << "Lenovo Legion T5 26AMR5 BIOS Hidden Menu Tool" << endl;
-	cout << "ÁªÏëÕü¾ÈÕßÈĞ7000P 2021 BIOSÒş²Ø²Ëµ¥¹¤¾ß" << endl;
+	cout << "Lenovo Legion T5-26AMR5 BIOS Hidden Menu Tool" << endl;
+	cout << "ÁªÏëÕü¾ÈÕßÈĞ7000P 2020/2021 BIOSÒş²Ø²Ëµ¥¹¤¾ß" << endl;
 	cout << "------------------------------------------------------------------------" << endl << endl;
 	cout << "[1] Unlock Hidden Menu ½âËøÒş²Ø²Ëµ¥" << endl;
 	cout << "[2] Lock Hidden Menu Ëø¶¨Òş²Ø²Ëµ¥" << endl << endl;
